@@ -1,13 +1,13 @@
 # Introduction
- * [IMSProtocolStackStructure IMS Protocol Stack structure]<br>Gives a short  description of IMS Protocol Stack Architecture    
- * [SupportedStandardSpecifications Supported specifications]<br>A list of supported standard specifications
+* [IMS Protocol Stack structure](IMS-Protocol-Stack-for-Android) - Gives a short  description of IMS Protocol Stack Architecture    
+* [Supported specifications](Supported-Standard-Specifications) - A list of supported standard specifications
 
 # How to
- * [SettingsToolGuide  Settings tool guide]<br>Guide about Sip Settings parameters
- * [TestClientInstructions Test client instructions]<br>Short list of features about test client
+* [Settings Tool Guide](Sip-Settings---User-Guide) - Guide about Sip Settings parameters
+* [Test Client Instructions](Test-Client-Instructions) - Short list of features about test client
 
 # Development
- * [BuildSource Build the source]  Build instruction
+* [Build the Source](Build-IMS-Stack-and-Testclient-From-Source)
 
 
 ## JSR References

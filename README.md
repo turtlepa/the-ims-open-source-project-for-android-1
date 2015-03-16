@@ -1,13 +1,13 @@
 # Introduction
-* [IMS Protocol Stack structure](IMS-Protocol-Stack-for-Android) - Gives a short  description of IMS Protocol Stack Architecture    
-* [Supported specifications](Supported-Standard-Specifications) - A list of supported standard specifications
+* [IMS Protocol Stack structure](https://github.com/hdost/the-ims-open-source-project-for-android/wiki/IMS-Protocol-Stack-for-Android) - Gives a short  description of IMS Protocol Stack Architecture    
+* [Supported specifications](https://github.com/hdost/the-ims-open-source-project-for-android/wiki/Supported-Standard-Specifications) - A list of supported standard specifications
 
 # How to
-* [Settings Tool Guide](Sip-Settings---User-Guide) - Guide about Sip Settings parameters
-* [Test Client Instructions](Test-Client-Instructions) - Short list of features about test client
+* [Settings Tool Guide](https://github.com/hdost/the-ims-open-source-project-for-android/wiki/Sip-Settings---User-Guide) - Guide about Sip Settings parameters
+* [Test Client Instructions](https://github.com/hdost/the-ims-open-source-project-for-android/wiki/Test-Client-Instructions) - Short list of features about test client
 
 # Development
-* [Build the Source](Build-IMS-Stack-and-Testclient-From-Source)
+* [Build the Source](https://github.com/hdost/the-ims-open-source-project-for-android/wiki/Build-IMS-Stack-and-Testclient-From-Source)
 
 
 ## JSR References

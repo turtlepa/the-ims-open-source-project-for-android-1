@@ -7,7 +7,7 @@
  * [TestClientInstructions Test client instructions]<br>Short list of features about test client
 
 # Development
-    * [BuildSource Build the source] <br> Build instruction
+ * [BuildSource Build the source]  Build instruction
 
 
 ## JSR References
